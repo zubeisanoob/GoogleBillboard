@@ -20,3 +20,15 @@ Note that by default, Java displays doubles in exponential form. `7.182818284E9`
 6. Add a loop to `setup()` that moves through the digits of e until it finds the first 10 digit prime.
 7. Add commit and upload your finished program to your github account. 
 9. OPTIONAL: If you have extra time you may want to see if you can solve the second puzzle to get the 5th prime formed by consecutive digits of `e`! 
+
+````
+Expected Output:
+Puzzle 1:
+first 10-digit prime found in consecutive digits of 'e': 7427466391
+Puzzle 2:
+f(1)= 7182818284
+f(2)= 8182845904
+f(3)= 8747135266
+f(4)= 7427466391
+f(5)= 5966290435
+````
