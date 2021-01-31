@@ -2,9 +2,9 @@ Google Billboard
 ==================
 In July of 2004 a mysterious billboard appeared in Silicon Valley. All it said was  
 
-     {first ten digit prime found in consecutive digits of e}.com  (this website is not available any more)
+     {first ten digit prime found in consecutive digits of e}.com  (this website is no longer available :( )
 
-At the same time, an identical banner appeared in the Harvard Square subway station in Boston. No indication was given about the significance of the signs, but people who correctly discovered the ten digit prime and visited the website were given a subsequent puzzle. If they completed that problem correctly they received a congratulatory message encouraging them and their "Big, Magnificent Brain" to apply for a job at Google Labs.
+At the same time, an identical banner appeared in the Harvard Square subway station in Boston. No indication was given about the significance of the signs, but people who correctly discovered the ten digit prime and visited the website were given a subsequent puzzle. If they completed that problem correctly they received a congratulatory message encouraging them to apply for a job at Google Labs!  This promotion is no longer active.
 
 Suggested steps to complete the assignment
 ------------------------------------------
