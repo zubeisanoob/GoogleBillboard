@@ -8,8 +8,8 @@ At the same time, an identical banner appeared in the Harvard Square subway stat
 
 Suggested steps to complete the puzzle of the Goolge Billboard
 --------------------------------------------------------------
-1. Go to [https://codingbat.com/prob/p221207](https://codingbat.com/prob/p221207), **log in**, and do the **isPrime** problem
-2. You may find the first ~50 slides of the [Unit_2_String_Objects_Methods](https://docs.google.com/presentation/d/1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE/edit#slide=id.p1) helpful
+1. Go to [Codingbat isPrime](https://codingbat.com/prob/p221207?parent=/home/chandru.narayan@bush.edu/googlebillboard), **log in**, and do the **isPrime** problem
+2. You may also find the first ~50 slides of the [Unit_2_String_Objects_Methods](https://docs.google.com/presentation/d/1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE/edit#slide=id.p1) helpful
 3. Now you are ready to start this project. Fork and clone down this repository
 3. In `setup()` use the two argument version of `substring()` to pull out ten consecutive digits of e at a time. Convert them to `double`s with `Double.parseDouble()`. Here's an example:  
      `String digits = e.substring(2,12);`   
